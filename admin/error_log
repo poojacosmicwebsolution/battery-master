@@ -1,0 +1,2 @@
+[03-Oct-2022 17:14:42 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/uvplus/public_html/admin/application/libraries/Cropper.php on line 215
+[03-Oct-2022 17:15:44 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/uvplus/public_html/admin/application/libraries/Cropper.php on line 215

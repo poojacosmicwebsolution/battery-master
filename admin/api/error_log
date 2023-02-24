@@ -1,0 +1,13 @@
+[09-Aug-2021 08:03:05 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/googlehai/public_html/adminpanel/api/dbconfig.php on line 14
+[09-Aug-2021 10:00:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/googlehai/public_html/adminpanel/api/login.php on line 15
+[09-Aug-2021 10:00:01 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, bool given in /home/googlehai/public_html/adminpanel/api/login.php on line 16
+[09-Aug-2021 10:00:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/googlehai/public_html/adminpanel/api/login.php on line 15
+[09-Aug-2021 10:00:18 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, bool given in /home/googlehai/public_html/adminpanel/api/login.php on line 16
+[09-Aug-2021 10:02:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/googlehai/public_html/adminpanel/api/login.php on line 15
+[09-Aug-2021 10:02:18 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, bool given in /home/googlehai/public_html/adminpanel/api/login.php on line 16
+[09-Aug-2021 10:13:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/googlehai/public_html/adminpanel/api/resetpass.php on line 12
+[09-Aug-2021 10:13:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/googlehai/public_html/adminpanel/api/resetpass.php on line 12
+[09-Aug-2021 10:18:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/googlehai/public_html/adminpanel/api/resetpass.php on line 12
+[23-Aug-2021 09:06:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/googlehai/public_html/adminpanel/api/resetpass.php on line 18
+[23-Aug-2021 10:50:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/googlehai/public_html/adminpanel/api/resetpass.php on line 18
+[23-Aug-2021 11:25:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/googlehai/public_html/adminpanel/api/resetpass.php on line 18
